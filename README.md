@@ -1,2 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cwbD5dmd)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20257320)
+# CSCI 430/530 — Homework 1 (Java)
+# By Owen hagen
+
+This repository contains two required folders:
+
+- `Hw1Q2/` — Implements the static-method version using `LinkedList<Person>` and a `MyMain` driver.
+- `Hw1Q3/` — Implements the object-oriented `PersonList` wrapper and an `App` driver.
+- persons.txt` — Sample input file with a few test people in each folder
+
+# Build & Run Hw1Q2
+
+- Navigate to /Hw1Q2 Folder
+- Compile with javac *.java
+- Run with java MyMain
+
+# Build & Run Hw1Q3
+
+- Navigate to /Hw1Q3 Folder
+- Compile with javac *.java
+- Run with java App

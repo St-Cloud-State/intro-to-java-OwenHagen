@@ -1,0 +1,17 @@
+Script started on 2025-09-02 17:25:25+00:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="132" LINES="14"]
+[?2004h[0;32m@OwenHagen [0m➜ [1;34m/workspaces/intro-to-java-OwenHagen [0;36m([1;31mmain[0;36m) [0m$ cd Hw1Q3
+[?2004l[?2004h[0;32m@OwenHagen [0m➜ [1;34m/workspaces/intro-to-java-OwenHagen/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ [7mjavac *.java[27mjavac *.java
+[?2004l[?2004h[0;32m@OwenHagen [0m➜ [1;34m/workspaces/intro-to-java-OwenHagen/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ java App
+[?2004l-- All People --
+John Doe (ID001)
+Ada Lovelace (ID002)
+Grace Hopper (ID003)
+Alan Turing (ID004)
+
+-- Find Tests --
+Index of ID003: 2
+Index of ID000: -1
+[?2004h[0;32m@OwenHagen [0m➜ [1;34m/workspaces/intro-to-java-OwenHagen/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ exit
+[?2004lexit
+
+Script done on 2025-09-02 17:25:51+00:00 [COMMAND_EXIT_CODE="0"]
